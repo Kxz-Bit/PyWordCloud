@@ -5,14 +5,21 @@ PyWordCloud is a simple wordcloud generator,and it make by [Kxz(Kxz-Bit)](https:
 First you need install the python,second you need use pip(Or other package manager) to install WordCloud,Jieba and ImageIO library,third open the 'PyWordCloud.py',you can see it run!
 ## Environment
 Python 3
+
 WordCloud
+
 Jieba
+
 ImageIO
-Tkinter
+
+
+
 and more...
 ## Directionary
 |- PyWordCloud.py
+
 |- README.md
 ## License and Copright
 License:GPLv3
+
 Copyright:(C)2022 Kxz(Kxz-Bit)All Rights Reserved
